@@ -24,6 +24,34 @@ This is a newsify app Used to Show News.
 * Get Single News.
 * Use NewsData Api to Get All News.
 
+
+## Demo
+
+![Bookmark The News](https://github.com/ShadowAdi/newsly/blob/master/demo/demo1.jpg)
+
+![Main News Screen](https://github.com/ShadowAdi/newsly/blob/master/demo/demo10.jpg)
+
+![Bookmark News](https://raw.githubusercontent.com/ShadowAdi/newsly/refs/heads/master/demo/demo2.jpg)
+
+![News Screen](https://github.com/ShadowAdi/newsly/blob/master/demo/demo4.jpg)
+
+![Search News](https://github.com/ShadowAdi/newsly/blob/master/demo/demo5.jpg)
+
+![Search Page](https://github.com/ShadowAdi/newsly/blob/master/demo/demo6.jpg)
+
+![Settings Page](https://github.com/ShadowAdi/newsly/blob/master/demo/demo7.jpg)
+
+![Homepage](https://github.com/ShadowAdi/newsly/blob/master/demo/demo8.jpg)
+
+
+![Demo Video](https://github.com/ShadowAdi/newsly/blob/master/demo/video.mp4)
+
+
+![Main News](https://github.com/ShadowAdi/newsly/blob/master/demo/demo10.jpg)
+
+
+
+
 Extra dependencies added here
 
 - [Axios](https://www.npmjs.com/package/axios)
