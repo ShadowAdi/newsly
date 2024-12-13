@@ -16,6 +16,14 @@ This is a newsify app Used to Show News.
     npx expo start
    ```
 
+## Features
+
+* Searching And Filtering the news.
+* Categoriesing The News.'
+* Bookmark/Unbookmark The News.
+* Get Single News.
+* Use NewsData Api to Get All News.
+
 Extra dependencies added here
 
 - [Axios](https://www.npmjs.com/package/axios)
